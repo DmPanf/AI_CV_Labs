@@ -1,0 +1,16 @@
+id;ip;device;speed;username;mac
+1;10.1.0.6;wifi_router1;100;Ivan;d8:2b:c1:55:f1:56
+2;10.2.0.2;wifi_router2;100;Andrey;d6:b3:c1:59:f1:11
+3;10.4.0.11;router4;10;Tomas;dd:b8:c1:63:b4:34
+4;10.4.0.6;router1;10;Anna;dd:bb:c9:12:61:c2
+5;10.5.0.16;wifi_router5;1000;Ivan;d8:bb:c8:a7:f1:43
+6;10.5.0.26;wifi_router5;1000;Olga;d8:bb:c9:5c:f1:89
+7;10.6.0.36;wifi_router6;1000;Boris;d8:bb:c6:d5:f1:5c
+8;10.6.0.41;wifi_router6;1000;Oleg;d8:bb:c1:59:f1:d2
+9;10.4.0.44;router4;10;Anna;dd:bb:c1:55:f1:a1
+10;10.5.0.37;wifi_router5;1000;Ivan;d8:bb:23:b5:f1:c7
+11;10.1.0.45;wifi_router1;100;Piter;d2:bb:c9:5c:f1:14
+12;10.2.0.84;wifi_router2;100;Andrey;d1:bb:d2:64:f1:59
+13;10.4.0.34;router4;10;Anton;d1:1b:47:a7:c6:95
+14;10.4.0.96;router4;10;Boris;d2:7d:d2:55:f4:18
+15;10.5.0.18;wifi_router5;1000;Olga;d8:aa:51:95:f8:44

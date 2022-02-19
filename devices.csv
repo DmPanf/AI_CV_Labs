@@ -1,0 +1,7 @@
+id;name;vendor;year;location
+1;wifi_router1;cisco;2016;"Дмитров, 1 этаж"
+2;wifi_router2;asus;2017;"Дмитров, 3 этаж"
+3;router4;zyxel;2001;"Тверь, 1 этаж"
+4;wifi_router5;cisco;2018;"Тверь, 3 этаж"
+5;wifi_router6;cisco;2016;"Тверь, 4 этаж"
+6;wifi_router7;asus;2016;"Дмитров, 2 этаж"
