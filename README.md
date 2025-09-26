@@ -1,2 +1,2 @@
-# AI
+# AI CV Labs
 AI Labs
